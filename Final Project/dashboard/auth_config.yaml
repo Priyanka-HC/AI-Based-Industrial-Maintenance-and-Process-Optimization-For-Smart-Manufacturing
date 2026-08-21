@@ -1,0 +1,15 @@
+cookie:
+  expiry_days: 7
+  key: change_this_to_a_random_secret_string
+  name: pm_dashboard_auth
+credentials:
+  usernames:
+    admin:
+      email: admin@yourcompany.com
+      first_name: Admin
+      last_name: User
+      password: $2b$12$nphmPg8oVP8MKKLcv1AVB.PTawV57bwl7ffY84e3RY3w7LgEX/sra
+preauthorized:
+  emails:
+  - employee1@yourcompany.com
+  - employee2@yourcompany.com
